@@ -8,6 +8,7 @@ use App\Models\SchoolClass;
 use App\Models\AcademicYear;
 use App\Models\Term;
 use App\Models\Result;
+use App\Models\SchoolSubject;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
